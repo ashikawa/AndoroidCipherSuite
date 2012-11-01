@@ -1,0 +1,1043 @@
+アプリバージョン
+81.241.1100
+端末名
+102P
+OSバージョン
+2.3.5
+項目ID,階層・項目名,収集結果
+1000,端末情報,
+1001,バージョン,
+1002,OSバージョン,2.3.5
+1003,ビルド番号,07.0448
+1020,カーネルバージョン,"2.6.35.7+
+pmc-android@pana2_4s #1
+SMP PREEMPT Sat Mar 10 23:18:23 JST 2012"
+1023,無線ファームウェアバージョン,N/A
+1004,ビルド情報,
+1005,ネイティブコードの命令セット,armeabi-v7a
+1006,ネイティブコードの第2命令セット,armeabi
+1007,ビルドID,GRJ90
+1008,製造元,PANASONIC
+1009,機種名,102P
+1010,製品名,_102P
+1011,CPU,
+1012,CPU名,ARMv7 Processor rev 3 (v7l)
+1013,搭載メモリ,
+1014,RAM(MB),843
+1015,最大ヒープサイズ(MB),48
+1021,内部ストレージ,
+1022,/dataの容量(MB),1566
+1016,設定メニュー構成,
+1017,android.provider.Settingsで定義されているACTIONのうち、非対応のメニュー項目,"android.settings.APPLICATION_DETAILS_SETTINGS,
+android.settings.APPLICATION_DEVELOPMENT_SETTINGS,
+android.settings.INPUT_METHOD_SUBTYPE_SETTINGS,
+android.settings.NETWORK_OPERATOR_SETTINGS,
+android.settings.QUICK_LAUNCH_SETTINGS"
+1018,利用可能なFeatureの一覧,
+1019,利用可能なFeatureの一覧,"android.hardware.location.network,
+android.hardware.wifi,
+android.hardware.telephony,
+android.hardware.location,
+android.hardware.sensor.gyroscope,
+android.hardware.touchscreen.multitouch.jazzhand,
+android.software.sip,
+android.hardware.touchscreen.multitouch,
+android.hardware.sensor.compass,
+android.hardware.camera,
+android.hardware.bluetooth,
+android.hardware.touchscreen.multitouch.distinct,
+android.hardware.sensor.proximity,
+android.software.sip.voip,
+android.hardware.microphone,
+android.hardware.sensor.light,
+android.hardware.location.gps,
+android.hardware.camera.autofocus,
+android.hardware.telephony.gsm,
+android.hardware.sensor.accelerometer,
+android.hardware.touchscreen,
+android.software.live_wallpaper,
+android.hardware.camera.flash"
+13017,Telephony,
+13018,IMEI,
+11000,通信,
+11001,SSL,
+11002,バージョン,"SSLv3,
+TLSv1"
+11003,サポートしているCipher Suite,"SSL_RSA_WITH_RC4_128_MD5,
+SSL_RSA_WITH_RC4_128_SHA,
+TLS_RSA_WITH_AES_128_CBC_SHA,
+TLS_RSA_WITH_AES_256_CBC_SHA,
+TLS_DHE_RSA_WITH_AES_128_CBC_SHA,
+TLS_DHE_RSA_WITH_AES_256_CBC_SHA,
+TLS_DHE_DSS_WITH_AES_128_CBC_SHA,
+TLS_DHE_DSS_WITH_AES_256_CBC_SHA,
+SSL_RSA_WITH_3DES_EDE_CBC_SHA,
+SSL_DHE_RSA_WITH_3DES_EDE_CBC_SHA,
+SSL_DHE_DSS_WITH_3DES_EDE_CBC_SHA,
+SSL_RSA_WITH_DES_CBC_SHA,
+SSL_DHE_RSA_WITH_DES_CBC_SHA,
+SSL_DHE_DSS_WITH_DES_CBC_SHA,
+SSL_RSA_EXPORT_WITH_RC4_40_MD5,
+SSL_RSA_EXPORT_WITH_DES40_CBC_SHA,
+SSL_DHE_RSA_EXPORT_WITH_DES40_CBC_SHA,
+SSL_DHE_DSS_EXPORT_WITH_DES40_CBC_SHA,
+SSL_RSA_WITH_NULL_MD5,
+SSL_RSA_WITH_NULL_SHA,
+SSL_DH_anon_WITH_RC4_128_MD5,
+TLS_DH_anon_WITH_AES_128_CBC_SHA,
+TLS_DH_anon_WITH_AES_256_CBC_SHA,
+SSL_DH_anon_WITH_3DES_EDE_CBC_SHA,
+SSL_DH_anon_WITH_DES_CBC_SHA,
+SSL_DH_anon_EXPORT_WITH_RC4_40_MD5,
+SSL_DH_anon_EXPORT_WITH_DES40_CBC_SHA"
+11004,インストールされているルート証明書,"C=CH,O=SwissSign AG,CN=SwissSign Platinum CA - G2,
+C=KR,O=KISA,OU=Korea Certification Authority Central,CN=KISA RootCA 1,
+C=TR,L=Gebze - Kocaeli,O=Türkiye Bilimsel ve Teknolojik Araştırma Kurumu - TÜBİTAK,OU=Ulusal Elektronik ve Kriptoloji Araştırma Enstitüsü - UEKAE,OU=Kamu Sertifikasyon Merkezi,CN=TÜBİTAK UEKAE Kök Sertifika Hizmet Sağlayıcısı - Sürüm 3,
+C=US,O=Entrust\, Inc.,OU=See www.entrust.net/legal-terms,OU=(c) 2009 Entrust\, Inc. - for authorized use only,CN=Entrust Root Certification Authority - G2,
+C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN - DATACorp SGC,
+C=US,O=GTE Corporation,OU=GTE CyberTrust Solutions\, Inc.,CN=GTE CyberTrust Global Root,
+C=DE,O=Deutsche Telekom AG,OU=T-TeleSec Trust Center,CN=Deutsche Telekom Root CA 2,
+CN=TÜRKTRUST Elektronik Sertifika Hizmet Sağlayıcısı,C=TR,L=Ankara,O=TÜRKTRUST Bilgi İletişim ve Bilişim Güvenliği Hizmetleri A.Ş. (c) Kasım 2005,
+C=US,O=VeriSign\, Inc.,OU=VeriSign Trust Network,OU=(c) 2008 VeriSign\, Inc. - For authorized use only,CN=VeriSign Universal Root Certification Authority,
+C=CH,O=SwissSign AG,CN=SwissSign Silver CA - G2,
+C=DE,O=TC TrustCenter GmbH,OU=TC TrustCenter Universal CA,CN=TC TrustCenter Universal CA I,
+C=US,O=Network Solutions L.L.C.,CN=Network Solutions Certificate Authority,
+C=US,O=America Online Inc.,CN=America Online Root Certification Authority 2,
+C=IL,O=StartCom Ltd.,OU=Secure Digital Certificate Signing,CN=StartCom Certification Authority,
+O=Cybertrust\, Inc,CN=Cybertrust Global Root,
+C=US,O=DigiCert Inc,OU=www.digicert.com,CN=DigiCert Global Root CA,
+C=CH,O=WISeKey,OU=Copyright (c) 2005,OU=OISTE Foundation Endorsed,CN=OISTE WISeKey Global Root GA CA,
+C=IE,O=Baltimore,OU=CyberTrust,CN=Baltimore CyberTrust Root,
+C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root,
+C=TR,O=Elektronik Bilgi Guvenligi A.S.,CN=e-Guven Kok Elektronik Sertifika Hizmet Saglayicisi,
+C=US,O=Wells Fargo WellsSecure,OU=Wells Fargo Bank NA,CN=WellsSecure Public Root Certificate Authority,
+OU=Copyright (c) 1997 Microsoft Corp.,OU=Microsoft Corporation,CN=Microsoft Root Authority,
+C=US,O=thawte\, Inc.,OU=Certification Services Division,OU=(c) 2006 thawte\, Inc. - For authorized use only,CN=thawte Primary Root CA,
+E=pki@sk.ee,C=EE,O=AS Sertifitseerimiskeskus,CN=Juur-SK,
+C=CH,O=SwissSign AG,CN=SwissSign Gold CA - G2,
+C=ES,L=C/ Muntaner 244 Barcelona,CN=Autoridad de Certificacion Firmaprofesional CIF A62634068,E=ca@firmaprofesional.com,
+OU=GlobalSign Root CA - R2,O=GlobalSign,CN=GlobalSign,
+O=Entrust.net,OU=www.entrust.net/CPS_2048 incorp. by ref. (limits liab.),OU=(c) 1999 Entrust.net Limited,CN=Entrust.net Certification Authority (2048),
+C=US,ST=Arizona,L=Scottsdale,O=Starfield Technologies\, Inc.,CN=Starfield Services Root Certificate Authority - G2,
+C=NL,O=Staat der Nederlanden,CN=Staat der Nederlanden Root CA - G2,
+O=Digital Signature Trust Co.,CN=DST Root CA X3,
+C=DK,O=TDC,CN=TDC OCES CA,
+C=US,O=Starfield Technologies\, Inc.,OU=Starfield Class 2 Certification Authority,
+C=EU,L=Madrid (see current address at www.camerfirma.com/address),SERIALNUMBER=A82743287,O=AC Camerfirma S.A.,CN=Chambers of Commerce Root - 2008,
+C=US,O=The Go Daddy Group\, Inc.,OU=Go Daddy Class 2 Certification Authority,
+C=DE,O=TC TrustCenter GmbH,OU=TC TrustCenter Universal CA,CN=TC TrustCenter Universal CA III,
+OU=GlobalSign Root CA - R3,O=GlobalSign,CN=GlobalSign,
+C=ES,O=FNMT,OU=FNMT Clase 2 CA,
+C=TW,O=Government Root Certification Authority,
+C=ES,ST=Madrid,L=Madrid,O=IPS Certification Authority s.l. ipsCA,OU=ipsCA,CN=ipsCA Global CA Root,E=global01@ipsca.com,
+C=US,O=Digital Signature Trust,OU=DST ACES,CN=DST ACES CA X6,
+C=KR,O=KISA,OU=Korea Certification Authority Central,CN=KISA RootCA 3,
+C=DE,O=TC TrustCenter GmbH,OU=TC TrustCenter Class 2 CA,CN=TC TrustCenter Class 2 CA II,
+C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Network Applications,
+C=JP,O=Japan Certification Services\, Inc.,CN=SecureSign RootCA1,
+C=SK,L=Bratislava,O=Disig a.s.,CN=CA Disig,
+C=DK,O=TDC Internet,OU=TDC Internet Root CA,
+C=ES,CN=Autoridad de Certificacion Firmaprofesional CIF A62634068,
+C=US,O=SecureTrust Corporation,CN=SecureTrust CA,
+C=NL,O=Staat der Nederlanden,CN=Staat der Nederlanden Root CA,
+C=US,O=GeoTrust Inc.,OU=(c) 2008 GeoTrust Inc. - For authorized use only,CN=GeoTrust Primary Certification Authority - G3,
+C=US,ST=California,L=San Jose,O=SiRF Technology Inc.,OU=ISBU,E=slssupport@sirf.com,
+O=Spirent Communications,OU=PA-WP,E=support@spirentcom.com,L=Eatontown,ST=NJ,C=US,CN=spirent Communications,
+C=CO,O=Sociedad Cameral de Certificación Digital - Certicámara S.A.,CN=AC Raíz Certicámara S.A.,
+C=US,O=VeriSign\, Inc.,OU=VeriSign Trust Network,OU=(c) 1999 VeriSign\, Inc. - For authorized use only,CN=VeriSign Class 4 Public Primary Certification Authority - G3,
+C=ZA,ST=Western Cape,L=Cape Town,O=Thawte Consulting cc,OU=Certification Services Division,CN=Thawte Premium Server CA,E=premium-server@thawte.com,
+C=US,O=Digital Signature Trust Co.,OU=DSTCA E1,
+C=US,O=Entrust\, Inc.,OU=www.entrust.net/CPS is incorporated by reference,OU=(c) 2006 Entrust\, Inc.,CN=Entrust Root Certification Authority,
+C=US,O=SecureTrust Corporation,CN=Secure Global CA,
+C=US,O=America Online Inc.,CN=America Online Root Certification Authority 1,
+L=ValiCert Validation Network,O=ValiCert\, Inc.,OU=ValiCert Class 2 Policy Validation Authority,CN=http://www.valicert.com/,E=info@valicert.com,
+C=US,ST=Arizona,L=Scottsdale,O=GoDaddy.com\, Inc.,CN=Go Daddy Root Certificate Authority - G2,
+C=BE,O=GlobalSign nv-sa,OU=Root CA,CN=GlobalSign Root CA,
+C=FR,O=Certplus,CN=Class 2 Primary CA,
+C=JP,O=Japan Certification Services\, Inc.,CN=SecureSign RootCA11,
+C=HU,ST=Hungary,L=Budapest,O=NetLock Halozatbiztonsagi Kft.,OU=Tanusitvanykiadok,CN=NetLock Kozjegyzoi (Class A) Tanusitvanykiado,
+C=HU,L=Budapest,O=Microsec Ltd.,CN=Microsec e-Szigno Root CA 2009,E=info@e-szigno.hu,
+C=HK,O=Hongkong Post,CN=Hongkong Post Root CA 1,
+CN=ACEDICOM Root,OU=PKI,O=EDICOM,C=ES,
+C=BM,O=QuoVadis Limited,CN=QuoVadis Root CA 3,
+C=US,O=GeoTrust Inc.,CN=GeoTrust Universal CA,
+C=US,O=Equifax Secure,OU=Equifax Secure eBusiness CA-2,
+C=US,O=Equifax Secure Inc.,CN=Equifax Secure eBusiness CA-1,
+C=US,O=AffirmTrust,CN=AffirmTrust Commercial,
+C=ch,O=Swisscom,OU=Digital Certificate Services,CN=Swisscom Root CA 1,
+C=US,O=AffirmTrust,CN=AffirmTrust Premium,
+C=ZA,ST=Western Cape,L=Cape Town,O=Thawte Consulting cc,OU=Certification Services Division,CN=Thawte Server CA,E=server-certs@thawte.com,
+C=NO,O=Buypass AS-983163327,CN=Buypass Class 3 CA 1,
+C=US,O=VeriSign\, Inc.,OU=Class 4 Public Primary Certification Authority - G2,OU=(c) 1998 VeriSign\, Inc. - For authorized use only,OU=VeriSign Trust Network,
+C=JP,O=SECOM Trust Systems CO.\,LTD.,OU=Security Communication EV RootCA1,
+C=EU,L=Madrid (see current address at www.camerfirma.com/address),SERIALNUMBER=A82743287,O=AC Camerfirma S.A.,CN=Global Chambersign Root - 2008,
+C=US,O=GeoTrust Inc.,CN=GeoTrust Primary Certification Authority,
+C=TW,O=Chunghwa Telecom Co.\, Ltd.,OU=ePKI Root Certification Authority,
+C=JP,O=SECOM Trust.net,OU=Security Communication RootCA1,
+C=FI,O=Sonera,CN=Sonera Class2 CA,
+C=EU,O=AC Camerfirma SA CIF A82743287,OU=http://www.chambersign.org,CN=Global Chambersign Root,
+C=US,O=Digital Signature Trust Co.,OU=DSTCA E2,
+L=ValiCert Validation Network,O=ValiCert\, Inc.,OU=ValiCert Class 3 Policy Validation Authority,CN=http://www.valicert.com/,E=info@valicert.com,
+CN=EBG Elektronik Sertifika Hizmet Sağlayıcısı,O=EBG Bilişim Teknolojileri ve Hizmetleri A.Ş.,C=TR,
+C=BM,O=QuoVadis Limited,CN=QuoVadis Root CA 2,
+C=JP,O=Japanese Government,OU=ApplicationCA,
+C=US,O=DigiCert Inc,OU=www.digicert.com,CN=DigiCert High Assurance EV Root CA,
+C=US,O=VeriSign\, Inc.,OU=VeriSign Trust Network,OU=(c) 2006 VeriSign\, Inc. - For authorized use only,CN=VeriSign Class 3 Public Primary Certification Authority - G5,
+C=US,O=VeriSign\, Inc.,OU=VeriSign Trust Network,OU=(c) 1999 VeriSign\, Inc. - For authorized use only,CN=VeriSign Class 3 Public Primary Certification Authority - G3,
+C=FR,O=Dhimyotis,CN=Certigna,
+C=EU,O=AC Camerfirma SA CIF A82743287,OU=http://www.chambersign.org,CN=Chambers of Commerce Root,
+L=ValiCert Validation Network,O=ValiCert\, Inc.,OU=ValiCert Class 1 Policy Validation Authority,CN=http://www.valicert.com/,E=info@valicert.com,
+CN=ComSign Secured CA,O=ComSign,C=IL,
+C=HU,L=Budapest,O=Microsec Ltd.,OU=e-Szigno CA,CN=Microsec e-Szigno Root CA,
+C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware,
+O=RSA Security Inc,OU=RSA Security 2048 V3,
+CN=TÜRKTRUST Elektronik Sertifika Hizmet Sağlayıcısı,C=TR,L=ANKARA,O=(c) 2005 TÜRKTRUST Bilgi İletişim ve Bilişim Güvenliği Hizmetleri A.Ş.,
+C=US,O=Entrust.net,OU=www.entrust.net/CPS incorp. by ref. (limits liab.),OU=(c) 1999 Entrust.net Limited,CN=Entrust.net Secure Server Certification Authority,
+C=US,ST=Arizona,L=Scottsdale,O=Starfield Technologies\, Inc.,CN=Starfield Root Certificate Authority - G2,
+C=US,O=AffirmTrust,CN=AffirmTrust Networking,
+C=US,O=GeoTrust Inc.,CN=GeoTrust Universal CA 2,
+C=RO,O=certSIGN,OU=certSIGN ROOT CA,
+C=CN,O=CNNIC,CN=CNNIC ROOT,
+C=US,O=VeriSign\, Inc.,OU=Class 3 Public Primary Certification Authority - G2,OU=(c) 1998 VeriSign\, Inc. - For authorized use only,OU=VeriSign Trust Network,
+C=NO,O=Buypass AS-983163327,CN=Buypass Class 2 CA 1,
+C=US,O=VISA,OU=Visa International Service Association,CN=Visa eCommerce Root,
+C=PL,O=Unizeto Sp. z o.o.,CN=Certum CA,
+C=US,O=Wells Fargo,OU=Wells Fargo Certification Authority,CN=Wells Fargo Root Certificate Authority,
+C=US,O=GeoTrust Inc.,CN=GeoTrust Global CA,
+C=DE,O=TC TrustCenter GmbH,OU=TC TrustCenter Class 3 CA,CN=TC TrustCenter Class 3 CA II,
+C=US,O=VeriSign\, Inc.,OU=Class 3 Public Primary Certification Authority,
+C=US,OU=www.xrampsecurity.com,O=XRamp Security Services Inc,CN=XRamp Global Certification Authority,
+C=US,O=Equifax Secure Inc.,CN=Equifax Secure Global eBusiness CA-1,
+C=GB,ST=Greater Manchester,L=Salford,O=Comodo CA Limited,CN=AAA Certificate Services,
+C=BM,O=QuoVadis Limited,OU=Root Certification Authority,CN=QuoVadis Root Certification Authority,
+C=HU,L=Budapest,O=NetLock Halozatbiztonsagi Kft.,OU=Tanusitvanykiadok,CN=NetLock Uzleti (Class B) Tanusitvanykiado,
+C=FR,ST=France,L=Paris,O=PM/SGDN,OU=DCSSI,CN=IGC/A,E=igca@sgdn.pm.gouv.fr,
+C=US,O=GeoTrust Inc.,CN=GeoTrust Global CA 2,
+C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO Certification Authority,
+C=US,O=Equifax,OU=Equifax Secure Certificate Authority,
+C=HU,L=Budapest,O=NetLock Halozatbiztonsagi Kft.,OU=Tanusitvanykiadok,CN=NetLock Expressz (Class C) Tanusitvanykiado,
+C=US,O=thawte\, Inc.,OU=Certification Services Division,OU=(c) 2008 thawte\, Inc. - For authorized use only,CN=thawte Primary Root CA - G3,
+C=US,O=DigiCert Inc,OU=www.digicert.com,CN=DigiCert Assured ID Root CA,
+O=Spirent Communications,OU=PA-WP,E=support@spirentcom.com,L=Eatontown,ST=NJ,C=US,CN=spirent Communications,
+C=HU,L=Budapest,O=NetLock Kft.,OU=Tanúsítványkiadók (Certification Services),CN=NetLock Arany (Class Gold) Főtanúsítvány"
+12001,SIP,
+12002,SIP API,対応
+12003,VOIP,対応
+12006,登録されているAPN一覧,
+12007,登録されているAPN一覧,"_id=1,
+name=Application,
+numeric=44020,
+mcc=440,
+mnc=20,
+apn=andoworld.softbank.ne.jp,
+user=null,
+server=null,
+password=null,
+proxy=null,
+port=null,
+mmsproxy=andmms.softbank.ne.jp,
+mmsport=8080,
+mmsc=http://mms/,
+authtype=2,
+type=default,mms,supl,
+current=null,
+is_default=1,
+protocol=IP,
+roaming_protocol=IP"
+12090,接続先として選択されているAPN,
+12008,接続先として選択されているAPN,N/A
+12009,IPv6,
+12010,対応,非対応
+2000,デバイス,
+2001,カメラ構成,
+2002,カメラの有無,有
+2003,カメラ搭載台数(台),1
+2004,オートフォーカス,対応
+2005,フラッシュ,対応
+2006,外側カメラ,
+2007,搭載位置,BACK
+2008,サポートしているアンチバンディング,"auto,
+50Hz,
+60Hz"
+2009,サポートしているフラッシュモード,off
+2010,サポートしているカラーエフェクト,"none,
+sepia,
+mono"
+2011,サポートしているフォーカスモード,"auto,
+infinity,
+macro,
+continuous-video"
+2012,サポートしているJPEGのサムネイルサイズ(px),"160x120,
+0x0"
+2013,サポートしている画像フォーマット,JPEG
+2014,サポートしている画像サイズ(px),"3264x2448,
+2592x1944,
+2048x1536,
+640x480,
+3264x1836,
+2592x1456,
+1920x1080,
+960x540"
+2015,垂直方向の画角(degree),34.9
+2016,サポートしているズームサイズ(px),"100,
+105,
+112,
+117,
+125,
+132,
+139,
+147,
+155,
+164,
+173,
+183,
+193,
+204,
+216,
+228,
+241,
+254,
+269,
+284,
+300"
+2017,SmoothZoomのサポートの有無,有
+2018,Zoomのサポートの有無,有
+2019,サポートしているシーンモード,"auto,
+portrait,
+landscape,
+snow,
+sunset,
+night,
+sports"
+2020,サポートしている動画のサイズ(px),N/A
+2021,サポートしているホワイトバランス,"auto,
+incandescent,
+fluorescent,
+daylight,
+cloudy-daylight,
+twilight"
+2022,サポートしているプレビューのフォーマット,NV21
+2023,サポートしているプレビューのFPS [最小値、最大値](fps),"[8.000,30.000]"
+2024,サポートしているプレビューサイズ(px),"1280x720,
+960x540,
+640x480,
+320x240,
+176x144"
+2056,顔の検出可能最大数,N/A
+2045,フォーカスエリアの検出可能最大数,N/A
+2046,測光エリアの検出可能最大数,N/A
+2047,AEロックサポートの有無,N/A
+2048,自動ホワイトバランスロックのサポートの有無,N/A
+2049,ビデオスナップショットのサポートの有無,N/A
+2057,手振れ補正機能,N/A
+2025,内側カメラ,
+2026,搭載位置,N/A
+2027,サポートしているアンチバンディング,N/A
+2028,サポートしているフラッシュモード,N/A
+2029,サポートしているカラーエフェクト,N/A
+2030,サポートしているフォーカスモード,N/A
+2031,サポートしているJPEGのサムネイルサイズ(px),N/A
+2032,サポートしている画像フォーマット,N/A
+2033,サポートしている画像サイズ(px),N/A
+2034,垂直方向の画角(degree),N/A
+2035,サポートしているズームサイズ(px),N/A
+2036,SmoothZoomのサポートの有無,N/A
+2037,Zoomのサポートの有無,N/A
+2038,サポートしているシーンモード,N/A
+2039,サポートしている動画のサイズ(px),N/A
+2040,サポートしているホワイトバランス,N/A
+2041,サポートしているプレビューのフォーマット,N/A
+2042,サポートしているプレビューのFPS [最小値、最大値](fps),N/A
+2043,サポートしているプレビューサイズ(px),N/A
+2050,顔の検出可能最大数,N/A
+2051,フォーカスエリアの検出可能最大数,N/A
+2052,測光エリアの検出可能最大数,N/A
+2053,AEロックサポートの有無,N/A
+2054,自動ホワイトバランスロックのサポートの有無,N/A
+2055,ビデオスナップショットのサポートの有無,N/A
+2058,手振れ補正機能,N/A
+3010,画面サイズ,
+3012,画面サイズ(インチ),4.0
+3020,画面の向き,
+3021,横向き画面のサポート,N/A
+3022,縦向き画面のサポート,N/A
+3001,画面解像度,
+3002,WIDTH(px),540
+3003,HEIGHT(px),960
+3013,ステータスバー解像度,
+3014,HEIGHT(px),38
+3004,ピクセル密度,
+3005,ピクセル密度(dpi),240
+3006,x方向(dpi),279.91837
+3007,y方向(dpi),277.0909
+3008,アスペクト比,
+3009,アスペクト比(横:縦),1.7959182
+3015,リフレッシュレート,
+3011,リフレッシュレート(Hz),68.0
+4001,加速度センサー,
+4002,対応,有
+4003,最小遅延時間(μs),20000
+4004,値の範囲,1.0
+4005,消費電力(mA),20.0
+4006,センサーの解像度(m/s^2),1.0
+4007,重力センサー,
+4008,対応,有
+4009,最小遅延時間(μs),20000
+4010,値の範囲,1.0
+4011,消費電力(mA),20.0
+4012,センサーの解像度(m/s^2),1.0
+4013,ジャイロセンサー,
+4014,対応,有
+4015,最小遅延時間(μs),10000
+4016,値の範囲,2000.0
+4017,消費電力(mA),6.145
+4018,センサーの解像度(radians/second),1.5259E-5
+4019,照度計,
+4020,対応,有
+4021,最小遅延時間(μs),0
+4022,値の範囲,131072.0
+4023,消費電力(mA),20.0
+4024,センサーの解像度(lux),2.0
+4025,地磁気計,
+4026,対応,有
+4027,最小遅延時間(μs),100000
+4028,値の範囲,1228.8
+4029,消費電力(mA),6.0
+4030,センサーの解像度(μT),0.3
+4031,気圧計,
+4032,対応,無
+4033,最小遅延時間(μs),N/A
+4034,値の範囲,N/A
+4035,消費電力(mA),N/A
+4036,センサーの解像度(hPa),N/A
+4037,近接センサー,
+4038,対応,有
+4039,最小遅延時間(μs),0
+4040,値の範囲,10.0
+4041,消費電力(mA),20.0
+4042,センサーの解像度(cm),10.0
+4043,温度センサー,
+4044,対応,無
+4045,最小遅延時間(μs),N/A
+4046,値の範囲,N/A
+4047,消費電力(mA),N/A
+4048,センサーの解像度(℃),N/A
+5001,GPS,
+5002,対応,有
+5009,海外対応,非対応
+5003,GPSで対応している測位方式,
+5004,GPS_PROVIDER,対応
+5005,NETWORK_PROVIDER,対応
+5006,PASSIVE_PROVIDER,対応
+6001,NFC,
+6002,対応,非対応
+6004,ISO-DEPプロトコル,非対応
+6005,NDEFフォーマットの読み取り,非対応
+6006,NFC-A,非対応
+6007,NFC-Ｂ,非対応
+6008,NFC-Ｆ,非対応
+6009,NFC-Ｖ,非対応
+6010,Android Beam機能,N/A
+13010,Bluetooth,
+13011,デバイスの有無,有
+12011,Wi-Fi,
+12004,対応,対応
+12021,Wi-Fi Direct,N/A
+8008,低レイテンシのAudio回路,
+8009,対応,無
+7001,タッチパネル,
+7002,デバイスの有無,有
+7003,マルチタッチ,対応
+7004,2箇所以上のタッチ操作,対応
+7005,5箇所以上のタッチ操作,対応
+7015,2箇所以上の画面タッチイベント,N/A
+7016,5箇所以上の画面タッチイベント,N/A
+7017,スタイラス入力,N/A
+7018,トラックボール,
+7007,デバイスの有無,無
+7020,バイブレーション機能,N/A
+7021,十字キー,
+7008,デバイスの有無,無
+7023,バイブレーション機能,N/A
+7024,キーボード,
+7009,デバイスの有無,有
+7026,バイブレーション機能,N/A
+7027,マウス,
+7010,デバイスの有無,無
+7029,バイブレーション機能,N/A
+7030,タッチパッド,
+7011,デバイスの有無,無
+7032,マイク,
+7012,デバイスの有無,有
+7034,ジョイスティック,
+7013,デバイスの有無,無
+7036,バイブレーション機能,N/A
+7037,ゲームパッド,
+7014,デバイスの有無,無
+7039,バイブレーション機能,N/A
+9000,録音/録画,
+9001,サポートしている録音品質,
+9002,サンプリングレート(Hz),"44100,
+16000,
+11025"
+9003,チャンネル,モノラル
+9004,オーディオフォーマット(bit),16
+10001,最小解像度,
+10002,対応,有
+10003,オーディオ出力のビットレート(bps),96000
+10004,オーディオトラックのチャンネル数,1
+10005,オーディオトラックのコーデック,AAC
+10006,オーディオトラックのサンプリングレート(Hz),44100
+10007,1セッションにおける録画可能時間(秒),30
+10008,出力ファイルフォーマット,3GPP
+10009,ビデオのフレーム幅(px),320
+10010,ビデオのフレーム高(px),240
+10011,ビデオのフレームレート(fps),30
+10012,ビデオのビットレート(bps),256000
+10013,ビデオのコーデック,MPEG-4 SP
+10014,最大解像度,
+10015,対応,有
+10016,オーディオ出力のビットレート(bps),160000
+10017,オーディオトラックのチャンネル数,1
+10018,オーディオトラックのコーデック,AAC
+10019,オーディオトラックのサンプリングレート(Hz),48000
+10020,1セッションにおける録画可能時間(秒),60
+10021,出力ファイルフォーマット,MPEG-4
+10022,ビデオのフレーム幅(px),1280
+10023,ビデオのフレーム高(px),720
+10024,ビデオのフレームレート(fps),30
+10025,ビデオのビットレート(bps),6000000
+10026,ビデオのコーデック,H.264
+10027,解像度 176×144,
+10028,対応,N/A
+10029,オーディオ出力のビットレート(bps),N/A
+10030,オーディオトラックのチャンネル数,N/A
+10031,オーディオトラックのコーデック,N/A
+10032,オーディオトラックのサンプリングレート(Hz),N/A
+10033,1セッションにおける録画可能時間(秒),N/A
+10034,出力ファイルフォーマット,N/A
+10035,ビデオのフレーム幅(px),N/A
+10036,ビデオのフレーム高(px),N/A
+10037,ビデオのフレームレート(fps),N/A
+10038,ビデオのビットレート(bps),N/A
+10039,ビデオのコーデック,N/A
+10183,解像度 320×240,
+10184,対応,N/A
+10185,オーディオ出力のビットレート(bps),N/A
+10186,オーディオトラックのチャンネル数,N/A
+10187,オーディオトラックのコーデック,N/A
+10188,オーディオトラックのサンプリングレート(Hz),N/A
+10189,1セッションにおける録画可能時間(秒),N/A
+10190,出力ファイルフォーマット,N/A
+10191,ビデオのフレーム幅(px),N/A
+10192,ビデオのフレーム高(px),N/A
+10193,ビデオのフレームレート(fps),N/A
+10194,ビデオのビットレート(bps),N/A
+10195,ビデオのコーデック,N/A
+10040,解像度 352×288,
+10041,対応,N/A
+10042,オーディオ出力のビットレート(bps),N/A
+10043,オーディオトラックのチャンネル数,N/A
+10044,オーディオトラックのコーデック,N/A
+10045,オーディオトラックのサンプリングレート(Hz),N/A
+10046,1セッションにおける録画可能時間(秒),N/A
+10047,出力ファイルフォーマット,N/A
+10048,ビデオのフレーム幅(px),N/A
+10049,ビデオのフレーム高(px),N/A
+10050,ビデオのフレームレート(fps),N/A
+10051,ビデオのビットレート(bps),N/A
+10052,ビデオのコーデック,N/A
+10053,解像度 720×480,
+10054,対応,N/A
+10055,オーディオ出力のビットレート(bps),N/A
+10056,オーディオトラックのチャンネル数,N/A
+10057,オーディオトラックのコーデック,N/A
+10058,オーディオトラックのサンプリングレート(Hz),N/A
+10059,1セッションにおける録画可能時間(秒),N/A
+10060,出力ファイルフォーマット,N/A
+10061,ビデオのフレーム幅(px),N/A
+10062,ビデオのフレーム高(px),N/A
+10063,ビデオのフレームレート(fps),N/A
+10064,ビデオのビットレート(bps),N/A
+10065,ビデオのコーデック,N/A
+10066,解像度 1280×720,
+10067,対応,N/A
+10068,オーディオ出力のビットレート(bps),N/A
+10069,オーディオトラックのチャンネル数,N/A
+10070,オーディオトラックのコーデック,N/A
+10071,オーディオトラックのサンプリングレート(Hz),N/A
+10072,1セッションにおける録画可能時間(秒),N/A
+10073,出力ファイルフォーマット,N/A
+10074,ビデオのフレーム幅(px),N/A
+10075,ビデオのフレーム高(px),N/A
+10076,ビデオのフレームレート(fps),N/A
+10077,ビデオのビットレート(bps),N/A
+10078,ビデオのコーデック,N/A
+10079,解像度 1920×1080,
+10080,対応,N/A
+10081,オーディオ出力のビットレート(bps),N/A
+10082,オーディオトラックのチャンネル数,N/A
+10083,オーディオトラックのコーデック,N/A
+10084,オーディオトラックのサンプリングレート(Hz),N/A
+10085,1セッションにおける録画可能時間(秒),N/A
+10086,出力ファイルフォーマット,N/A
+10087,ビデオのフレーム幅(px),N/A
+10088,ビデオのフレーム高(px),N/A
+10089,ビデオのフレームレート(fps),N/A
+10090,ビデオのビットレート(bps),N/A
+10091,ビデオのコーデック,N/A
+10092,微速度撮影：最小解像度,
+10093,対応,N/A
+10094,オーディオ出力のビットレート(bps),N/A
+10095,オーディオトラックのチャンネル数,N/A
+10096,オーディオトラックのコーデック,N/A
+10097,オーディオトラックのサンプリングレート(Hz),N/A
+10098,1セッションにおける録画可能時間(秒),N/A
+10099,出力ファイルフォーマット,N/A
+10100,ビデオのフレーム幅(px),N/A
+10101,ビデオのフレーム高(px),N/A
+10102,ビデオのフレームレート(fps),N/A
+10103,ビデオのビットレート(bps),N/A
+10104,ビデオのコーデック,N/A
+10105,微速度撮影：最大解像度,
+10106,対応,N/A
+10107,オーディオ出力のビットレート(bps),N/A
+10108,オーディオトラックのチャンネル数,N/A
+10109,オーディオトラックのコーデック,N/A
+10110,オーディオトラックのサンプリングレート(Hz),N/A
+10111,1セッションにおける録画可能時間(秒),N/A
+10112,出力ファイルフォーマット,N/A
+10113,ビデオのフレーム幅(px),N/A
+10114,ビデオのフレーム高(px),N/A
+10115,ビデオのフレームレート(fps),N/A
+10116,ビデオのビットレート(bps),N/A
+10117,ビデオのコーデック,N/A
+10118,微速度撮影：解像度 176×144,
+10119,対応,N/A
+10120,オーディオ出力のビットレート(bps),N/A
+10121,オーディオトラックのチャンネル数,N/A
+10122,オーディオトラックのコーデック,N/A
+10123,オーディオトラックのサンプリングレート(Hz),N/A
+10124,1セッションにおける録画可能時間(秒),N/A
+10125,出力ファイルフォーマット,N/A
+10126,ビデオのフレーム幅(px),N/A
+10127,ビデオのフレーム高(px),N/A
+10128,ビデオのフレームレート(fps),N/A
+10129,ビデオのビットレート(bps),N/A
+10130,ビデオのコーデック,N/A
+10196,微速度撮影：解像度 320×240,
+10197,対応,N/A
+10198,オーディオ出力のビットレート(bps),N/A
+10199,オーディオトラックのチャンネル数,N/A
+10200,オーディオトラックのコーデック,N/A
+10201,オーディオトラックのサンプリングレート(Hz),N/A
+10202,1セッションにおける録画可能時間(秒),N/A
+10203,出力ファイルフォーマット,N/A
+10204,ビデオのフレーム幅(px),N/A
+10205,ビデオのフレーム高(px),N/A
+10206,ビデオのフレームレート(fps),N/A
+10207,ビデオのビットレート(bps),N/A
+10208,ビデオのコーデック,N/A
+10131,微速度撮影：解像度 352×288,
+10132,対応,N/A
+10133,オーディオ出力のビットレート(bps),N/A
+10134,オーディオトラックのチャンネル数,N/A
+10135,オーディオトラックのコーデック,N/A
+10136,オーディオトラックのサンプリングレート(Hz),N/A
+10137,1セッションにおける録画可能時間(秒),N/A
+10138,出力ファイルフォーマット,N/A
+10139,ビデオのフレーム幅(px),N/A
+10140,ビデオのフレーム高(px),N/A
+10141,ビデオのフレームレート(fps),N/A
+10142,ビデオのビットレート(bps),N/A
+10143,ビデオのコーデック,N/A
+10144,微速度撮影：解像度 720×480,
+10145,対応,N/A
+10146,オーディオ出力のビットレート(bps),N/A
+10147,オーディオトラックのチャンネル数,N/A
+10148,オーディオトラックのコーデック,N/A
+10149,オーディオトラックのサンプリングレート(Hz),N/A
+10150,1セッションにおける録画可能時間(秒),N/A
+10151,出力ファイルフォーマット,N/A
+10152,ビデオのフレーム幅(px),N/A
+10153,ビデオのフレーム高(px),N/A
+10154,ビデオのフレームレート(fps),N/A
+10155,ビデオのビットレート(bps),N/A
+10156,ビデオのコーデック,N/A
+10157,微速度撮影：解像度 1280×720,
+10158,対応,N/A
+10159,オーディオ出力のビットレート(bps),N/A
+10160,オーディオトラックのチャンネル数,N/A
+10161,オーディオトラックのコーデック,N/A
+10162,オーディオトラックのサンプリングレート(Hz),N/A
+10163,1セッションにおける録画可能時間(秒),N/A
+10164,出力ファイルフォーマット,N/A
+10165,ビデオのフレーム幅(px),N/A
+10166,ビデオのフレーム高(px),N/A
+10167,ビデオのフレームレート(fps),N/A
+10168,ビデオのビットレート(bps),N/A
+10169,ビデオのコーデック,N/A
+10170,微速度撮影：解像度 1920×1080,
+10171,対応,N/A
+10172,オーディオ出力のビットレート(bps),N/A
+10173,オーディオトラックのチャンネル数,N/A
+10174,オーディオトラックのコーデック,N/A
+10175,オーディオトラックのサンプリングレート(Hz),N/A
+10176,1セッションにおける録画可能時間(秒),N/A
+10177,出力ファイルフォーマット,N/A
+10178,ビデオのフレーム幅(px),N/A
+10179,ビデオのフレーム高(px),N/A
+10180,ビデオのフレームレート(fps),N/A
+10181,ビデオのビットレート(bps),N/A
+10182,ビデオのコーデック,N/A
+16001,OpenMAX IL：AAC(Advanced Audio Coding),
+16002,コーデック名,N/A
+16006,プロファイル,N/A
+16003,MIME TYPE,N/A
+16007,OpenMAX IL：H.264/AVC(Advanced Video Coding),
+16008,コーデック名,N/A
+16011,カラーフォーマット,N/A
+16012,プロファイル/レベル,N/A
+16009,MIME TYPE,N/A
+16013,OpenMAX IL：H.263,
+16014,コーデック名,N/A
+16017,カラーフォーマット,N/A
+16018,プロファイル/レベル,N/A
+16015,MIME TYPE,N/A
+16019,OpenMAX IL：MPEG4,
+16020,コーデック名,N/A
+16023,カラーフォーマット,N/A
+16024,プロファイル/レベル,N/A
+16021,MIME TYPE,N/A
+16025,OpenMAX IL：その他,
+16026,コーデック名,N/A
+16029,カラーフォーマット,N/A
+16027,MIME TYPE,N/A
+13000,その他,
+8001,音声エフェクト,
+8002,BassBoost,対応
+8003,EnvironmentalReverb,対応
+8004,Equalizer,対応
+8005,PresetReverb,対応
+8006,Virtualizer,対応
+8007,Visualizer,非対応
+13029,エコー除去機能,
+13030,対応,非対応
+13031,オートゲインコントロール機能,
+13032,対応,非対応
+13033,ノイズキャンセル機能,
+13034,対応,非対応
+13035,バイブレーション機能,
+13036,対応,N/A
+13037,アニメーション,
+13038,サポートするアクセラレーション,N/A
+13026,採用3Dグラフィックスアクセラレータ,
+13020,Renderer,PowerVR SGX 540
+13027,Live Wallpaper,
+13022,対応,対応
+13023,USB,
+13024,ホスト機能,非対応
+13025,アクセサリ機能,非対応
+13005,音声認識,
+13006,対応,対応
+13045,ハンズフリー,
+13039,対応,N/A
+13040,対応(セキュア実行),N/A
+13007,読み上げ,
+13008,利用音声データ,com.svox.pico
+13009,使用可能なロケール,"de,
+de_AT,
+de_BE,
+de_CH,
+de_DE,
+de_LI,
+de_LU,
+en,
+en_AU,
+en_BE,
+en_BW,
+en_BZ,
+en_CA,
+en_GB,
+en_HK,
+en_IE,
+en_IN,
+en_JM,
+en_MH,
+en_MT,
+en_NA,
+en_NZ,
+en_PH,
+en_PK,
+en_SG,
+en_TT,
+en_US,
+en_US_POSIX,
+en_VI,
+en_ZA,
+en_ZW,
+es,
+es_ES,
+es_US,
+fr,
+fr_BE,
+fr_CA,
+fr_CH,
+fr_FR,
+fr_LU,
+fr_MC,
+it,
+it_CH,
+it_IT"
+13041,Localeに対応した読み上げ機能サポート,N/A
+13001,Java SE互換機能,
+13002,文字エンコーディング,"Big5,
+Big5-HKSCS,
+BOCU-1,
+CESU-8,
+cp864,
+EUC-JP,
+EUC-KR,
+GB18030,
+GBK,
+HZ-GB-2312,
+ISO-2022-CN,
+ISO-2022-CN-EXT,
+ISO-2022-JP,
+ISO-2022-KR,
+ISO-8859-1,
+ISO-8859-10,
+ISO-8859-13,
+ISO-8859-14,
+ISO-8859-15,
+ISO-8859-16,
+ISO-8859-2,
+ISO-8859-3,
+ISO-8859-4,
+ISO-8859-5,
+ISO-8859-6,
+ISO-8859-7,
+ISO-8859-8,
+ISO-8859-9,
+KOI8-R,
+KOI8-U,
+macintosh,
+SCSU,
+Shift_JIS,
+TIS-620,
+US-ASCII,
+UTF-16,
+UTF-16BE,
+UTF-16LE,
+UTF-32,
+UTF-32BE,
+UTF-32LE,
+UTF-7,
+UTF-8,
+windows-1250,
+windows-1251,
+windows-1252,
+windows-1253,
+windows-1254,
+windows-1255,
+windows-1256,
+windows-1257,
+windows-1258,
+x-docomo-shift_jis-2007,
+x-gsm-03.38-2000,
+x-ibm-1383_P110-1999,
+x-IMAP-mailbox-name,
+x-iscii-be,
+x-iscii-de,
+x-iscii-gu,
+x-iscii-ka,
+x-iscii-ma,
+x-iscii-or,
+x-iscii-pa,
+x-iscii-ta,
+x-iscii-te,
+x-iso-8859_11-2001,
+x-JavaUnicode,
+x-kddi-shift_jis-2007,
+x-mac-cyrillic,
+x-softbank-shift_jis-2007,
+x-UnicodeBig,
+x-UTF-16LE-BOM,
+x-UTF16_OppositeEndian,
+x-UTF16_PlatformEndian,
+x-UTF32_OppositeEndian,
+x-UTF32_PlatformEndian"
+13003,言語・地域(ロケール),"ar,
+bg,
+bg_BG,
+ca,
+ca_ES,
+cs,
+cs_CZ,
+da,
+da_DK,
+de,
+de_AT,
+de_BE,
+de_CH,
+de_DE,
+de_LI,
+de_LU,
+el,
+el_GR,
+en,
+en_AU,
+en_BE,
+en_BW,
+en_BZ,
+en_CA,
+en_GB,
+en_HK,
+en_IE,
+en_IN,
+en_JM,
+en_MH,
+en_MT,
+en_NA,
+en_NZ,
+en_PH,
+en_PK,
+en_SG,
+en_TT,
+en_US,
+en_US_POSIX,
+en_VI,
+en_ZA,
+en_ZW,
+es,
+es_ES,
+es_US,
+fa,
+fa_AF,
+fa_IR,
+fi,
+fil,
+fil_PH,
+fr,
+fr_BE,
+fr_CA,
+fr_CH,
+fr_FR,
+fr_LU,
+fr_MC,
+iw,
+hi,
+hi_IN,
+hr,
+hu,
+in,
+it,
+it_CH,
+it_IT,
+ja,
+ja_JP,
+ko,
+ko_KR,
+lt,
+lt_LT,
+lv,
+lv_LV,
+nb,
+nb_NO,
+nl,
+nl_BE,
+nl_NL,
+pl,
+pl_PL,
+pt,
+pt_BR,
+pt_PT,
+ro,
+ru,
+ru_RU,
+sk,
+sl,
+sl_SI,
+sr,
+sv,
+sv_SE,
+th,
+tr,
+tr_TR,
+uk,
+vi,
+vi_VN,
+zh,
+zh_CN,
+zh_HANS,
+zh_HANS_CN,
+zh_HANT,
+zh_HANT_TW,
+zh_TW"
+13004,システムプロパティ値,"java.vm.version=1.4.0,
+java.vendor.url=http://www.android.com/,
+java.vm.vendor.url=http://www.android.com/,
+user.dir=/,
+java.vm.name=Dalvik,
+java.home=/system,
+user.region=JP,
+javax.net.ssl.trustStore=/system/etc/security/cacerts.bks,
+java.runtime.name=Android Runtime,
+user.home=,
+java.io.tmpdir=/sdcard,
+http.agent=Dalvik/1.4.0 (Linux; U; Android 2.3.5; 102P Build/GRJ90),
+java.net.preferIPv6Addresses=true,
+java.version=0,
+java.boot.class.path=/system/framework/core.jar:/system/framework/bouncycastle.jar:/system/framework/ext.jar:/system/framework/framework.jar:/system/framework/android.policy.jar:/system/framework/services.jar:/system/framework/core-junit.jar,
+java.library.path=/vendor/lib:/system/lib:/vendorpa/lib,
+file.separator=/,
+java.specification.vendor=The Android Project,
+file.encoding=UTF-8,
+line.separator=\n,
+java.vm.specification.version=0.9,
+java.vm.specification.vendor=The Android Project,
+os.name=Linux,
+omap.enhancement=true,
+java.vm.vendor=The Android Project,
+path.separator=:,
+android.vm.dexfile=true,
+java.ext.dirs=,
+java.class.path=.,
+os.version=2.6.35.7+,
+java.specification.name=Dalvik Core Library,
+java.compiler=,
+user.language=ja,
+user.name=,
+os.arch=armv7l,
+java.runtime.version=0.9,
+java.class.version=46.0,
+java.vendor=The Android Project,
+java.vm.specification.name=Dalvik Virtual Machine Specification,
+java.specification.version=0.9"
+13012,OpenGL,
+13013,Vendor,Imagination Technologies
+13014,Renderer,PowerVR SGX 540
+13015,Extentions,GL_OES_byte_coordinates GL_OES_fixed_point GL_OES_single_precision GL_OES_matrix_get GL_OES_read_format GL_OES_compressed_paletted_texture GL_OES_point_sprite GL_OES_point_size_array GL_OES_matrix_palette GL_OES_draw_texture GL_OES_query_matrix GL_OES_texture_env_crossbar GL_OES_texture_mirrored_repeat GL_OES_texture_cube_map GL_OES_blend_subtract GL_OES_blend_func_separate GL_OES_blend_equation_separate GL_OES_stencil_wrap GL_OES_extended_matrix_palette GL_OES_framebuffer_object GL_OES_rgb8_rgba8 GL_OES_depth24 GL_OES_stencil8 GL_OES_compressed_ETC1_RGB8_texture GL_OES_mapbuffer GL_OES_EGL_image GL_EXT_multi_draw_arrays GL_OES_required_internalformat GL_IMG_read_format GL_IMG_texture_compression_pvrtc GL_IMG_texture_format_BGRA8888 GL_EXT_texture_format_BGRA8888 GL_IMG_texture_stream GL_OES_egl_sync GL_IMG_vertex_array_object
+13016,ETC1 texture compressionのサポート,非対応
+13042,アプリ表示領域,
+13043,アプリが表示可能な画面サイズ(縦向き) (px),N/A
+13044,アプリが表示可能な画面サイズ(横向き) (px),N/A
+14000,config qualifier,
+14002,スクリーンサイズ,normal
+14003,アスペクト比,long
+14004,ピクセル密度,hdpi
+14005,タッチスクリーンタイプ,finger
+14006,現在のテキスト入力メソッド,nokeys
+14007,現在のノンタッチナビゲーションメソッド,nonav
+15000,エミュレータ設定,
+15001,エミュレータ設定項目,
+15002,DPad support,N/A
+15003,Abstract LCD density,240
+15004,Accelerometer,YES
+15005,Cache partition size,446
+15006,Track-ball support,N/A
+15007,Camera support,YES
+15008,Proximity support,YES
+15009,Touch-screen support,YES
+15010,GPS support,YES
+15011,Cache partition support,YES
