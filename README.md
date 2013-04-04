@@ -21,7 +21,7 @@
     DES-CBC3-SHA            SSLv3 Kx=RSA      Au=RSA  Enc=3DES(168) Mac=SHA1
     (略)
 
-# 現状の最適値(芦川判断)
+# 推奨設定(仮)
 
     ALL:!ADH:!EXPORT:!SSLv2:+HIGH:+MEDIUM:!LOW:!DES:!RC4:!MD5
 
